@@ -1,4 +1,4 @@
-var cliprogress = require('../lib/index');
+var cliprogress = require('../lib/cliprogress');
 
 
 var clipo = null;
