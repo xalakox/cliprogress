@@ -2,7 +2,7 @@
   "author": "Salvador Aceves <salvador@aceves.mx> (http://salvador.aceves.mx/)",
   "name": "cliprogress",
   "description": "A node.js lib for progress displaying and execution timer.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/xalakox/cliprogress",
   "repository": {
     "type": "git",
